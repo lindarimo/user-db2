@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Bruce Wayne",
+    "username": "Batman",
+    "email": "bruce.wayne@gotham.com"
+  },
+  {
+    "id": 2,
+    "name": "Tony Stark",
+    "username": "Ironman",
+    "email": "tony.stark@starkindustries.us"
+  },
+  {
+    "id": 3,
+    "name": "Peter Parker",
+    "username": "Spiderman",
+    "email": "peter.parker@uomoaracnide.it"
+  }
+]
